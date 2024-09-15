@@ -6,7 +6,7 @@ Script Uses Nmap
 Nmap’i sisteminize kurmak için aşağıdaki komutları kullanabilirsiniz:
 
 Debian/Ubuntu:
->sudo apt update
+>sudo apt update;
 >sudo apt install nmap
 
 CentOS/RHEL:
