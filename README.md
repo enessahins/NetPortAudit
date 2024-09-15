@@ -3,8 +3,6 @@ NetPortAudit is a script that scans a list of IP addresses to detect open ports 
 
 Script Uses Nmap
 
-Nmap’i sisteminize kurmak için aşağıdaki komutları kullanabilirsiniz:
-
 Debian/Ubuntu:
 >sudo apt update;
 >sudo apt install nmap
