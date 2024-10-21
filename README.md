@@ -46,7 +46,7 @@ chmod +x NetPortAudit.sh
 ./NetPortAudit.sh
 ```
 
-3. **Generate the Excel Report:
+3. ** Generate the Excel Report:
 
 After running the Bash script, the Python section will automatically create an Excel file named nmap_scan_results.xlsx.
 
